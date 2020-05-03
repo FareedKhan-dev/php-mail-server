@@ -2,7 +2,8 @@
 <html lang="en">
 
 <head>
-  <title>PHP Project and confirmation</title>
+
+  <title>PHP Project</title>
   <!-- Required meta tags -->
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
